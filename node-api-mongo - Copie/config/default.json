@@ -1,0 +1,14 @@
+{
+    
+    "Customer": {
+      "dbConfig": {
+        "host": "localhost",
+        "port": 5984,
+        "dbName": "mongodb+srv://coco:coco@cluster0.f4jci.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+      }
+     
+    }
+    
+  }
+
+
